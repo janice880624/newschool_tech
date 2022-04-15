@@ -1,2 +1,2 @@
-# newschool_tech
-newschool_tech
+# maincode
+
